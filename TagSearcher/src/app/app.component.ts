@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TagSearcher';
+
+  public videos = [
+    {
+      'title': 'Test1'
+    },
+    {
+      'title': 'Test2'
+    }
+  ]
 }

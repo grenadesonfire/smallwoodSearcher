@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { CardModule } from 'node_modules/primeng/card';
 import { ButtonModule } from 'primeng/button';
 import { TableModule } from 'primeng/table';
+import { TagModule } from 'primeng/tag';
+import { ChipModule } from 'primeng/chip';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { TableModule } from 'primeng/table';
     AppRoutingModule,
     CardModule,
     ButtonModule,
-    TableModule
+    TableModule,
+    TagModule,
+    ChipModule
   ],
   providers: [],
   bootstrap: [AppComponent]

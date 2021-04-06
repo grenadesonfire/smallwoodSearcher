@@ -3,6 +3,20 @@
     width: 90%;
 }
 
+.dark-card {
+    background-color: #f00;
+}
+
 .buffer {
     margin-top: 10%;
+}
+
+.p-chips-multiple-container {
+    flex-wrap: wrap;
+    align-content: space-between;
+    padding-bottom: 0;
+}
+  
+.p-chips-token, .p-chips-input-token {
+    margin-bottom: 0.5rem;
 }

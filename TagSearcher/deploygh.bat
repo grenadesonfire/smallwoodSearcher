@@ -1,1 +1,1 @@
-ng deploy --base-href=https://github.com/grenadesonfire/grenadesonfire.github.io.git
+ng deploy --base-href=https://grenadesonfire.github.io/smallwoodSearcher/
